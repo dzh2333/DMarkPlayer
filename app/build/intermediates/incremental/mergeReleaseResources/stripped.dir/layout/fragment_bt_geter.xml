@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ProgressBar
+        android:id="@+id/fragment_geter_progressbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_80"/>
+
+
+    <TextView
+        android:id="@+id/fragment_geter_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/loading_sender_send_file"
+        android:gravity="center"
+        android:layout_margin="@dimen/dp_10"
+        android:textColor="@color/mi_green"
+        android:textSize="@dimen/sp_18"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_1"
+        android:background="@color/lightblue"/>
+
+    <TextView
+        android:id="@+id/fragment_geter_file_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_get_list"
+        android:gravity="center"
+        android:textSize="@dimen/sp_18"
+        android:layout_margin="@dimen/dp_10"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/fragment_geter_rv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_1"
+        android:background="@color/lightblue"/>
+
+    <TextView
+        android:id="@+id/fragment_geter_storage_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/storage_location"
+        android:gravity="center"
+        android:textSize="@dimen/sp_18"
+        android:layout_margin="@dimen/dp_10"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_1"
+        android:background="@color/lightblue"/>
+
+    <TextView
+        android:id="@+id/fragment_geter_msg_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="日志消息"
+        android:gravity="center"
+        android:layout_margin="@dimen/dp_10"
+        android:textSize="@dimen/sp_18"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/fragment_geter_log"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

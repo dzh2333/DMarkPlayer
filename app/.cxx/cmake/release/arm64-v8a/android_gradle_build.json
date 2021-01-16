@@ -1,0 +1,162 @@
+{
+  "stringTable": {
+    "0": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake",
+    "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\l\\AppData\\Local\\Android\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\l\\AppData\\Local\\Android\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-arm64-v8a": {
+      "buildCommand": "C:\\Users\\l\\AppData\\Local\\Android\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\release\\arm64-v8a\" native-lib",
+      "buildType": "release",
+      "toolchain": "3365877141",
+      "abi": "arm64-v8a",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\nativelib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\jnihelper\\StrHelper.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\jnihelper\\AndroidHelper.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IDemux.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\FFDemux.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XData.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XLog.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XThread.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IObserver.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\FFdecode.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IDecode.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XParameter.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IVideoView.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\GLVideoView.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XTexture.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XEGL.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XShader.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\FFResample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IResample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\SLAudioPlay.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IAudioPlay.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IPlayer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IPlayerBuilder.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\FFPlayerBuilder.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IPlayerPorxy.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "3365877141": {
+      "cppCompilerExecutable": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

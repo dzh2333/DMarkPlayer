@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_80"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:ignore="MissingConstraints"
+    android:id="@+id/item_video_layout">
+
+
+    <com.mark.cyberpunkplayer.ui.widget.RoundImageView
+        android:id="@+id/item_video_image"
+        android:layout_width="@dimen/dp_80"
+        android:layout_height="match_parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_margin="@dimen/dp_10"
+        android:background="@color/black"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/item_video_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="名字"
+        android:textSize="@dimen/sp_16"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toTopOf="@id/item_video_time"
+        android:layout_marginLeft="@dimen/dp_100"
+        android:layout_marginBottom="@dimen/dp_6"
+        android:layout_marginRight="@dimen/dp_70"
+        />
+
+    <TextView
+        android:id="@+id/item_video_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/item_video_image"
+        android:layout_marginBottom="@dimen/dp_10"
+        android:textSize="@dimen/sp_12"
+        android:layout_marginLeft="@dimen/dp_10"/>
+
+    <ImageView
+        android:id="@+id/item_video_menu"
+        android:layout_width="@dimen/dp_60"
+        android:layout_height="match_parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:src="@drawable/item_pop_menu"
+        android:padding="@dimen/dp_20"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

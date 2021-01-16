@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_2_xl" />
+        <device id="pixel" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="037a44e5-81cc-4725-bbf7-462a04524ea6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_traex_rippleeffect_library_1_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_traex_rippleeffect_library_1_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_api_2_2_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_api_2_2_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_backend_cct_2_3_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_backend_cct_2_3_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_runtime_2_2_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_runtime_2_2_4_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_19_3_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_19_3_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_components_16_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_components_16_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_orhanobut_logger_2_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_orhanobut_logger_2_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_android_1_5_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_android_1_5_4_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_tencent_bugly_nativecrashreport_3_7_471_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_yanzhenjie_permission_2_0_0_rc11_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_yanzhenjie_permission_2_0_0_rc11_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/jnihelper/AndroidHelper.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/jnihelper/AndroidHelper.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/jnihelper/StrHelper.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/jnihelper/StrHelper.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/nativelib.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/nativelib.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/FFDemux.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/FFDemux.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/FFPlayerBuilder.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/FFPlayerBuilder.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/FFResample.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/FFResample.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/FFdecode.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/FFdecode.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/GLVideoView.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/GLVideoView.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IAudioPlay.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IAudioPlay.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IDecode.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IDecode.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IDemux.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IDemux.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IObserver.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IObserver.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IPlayer.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IPlayer.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IPlayerBuilder.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IPlayerBuilder.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IPlayerPorxy.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IPlayerPorxy.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IResample.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IResample.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IVideoView.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/IVideoView.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/SLAudioPlay.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/SLAudioPlay.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XData.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XData.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XEGL.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XEGL.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XLog.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XLog.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XParameter.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XParameter.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XShader.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XShader.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XTexture.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XTexture.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XThread.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir/player/XThread.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build_mini.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build_native-lib_arm64-v8a.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build_native-lib_arm64-v8a.stdout.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/build_command.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/build_model.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/build_output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/cmake_server_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/cmake_server_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/cmake/debug/arm64-v8a/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/ndk_locator_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndk_locator_record.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/sjIMsU11ppZNat6FbOj39vY0xZs=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/sjIMsU11ppZNat6FbOj39vY0xZs=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/mark/cyberpunkplayer/app/BTManager$BTBroadcastRceciver.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/mark/cyberpunkplayer/app/BTManager$BTBroadcastRceciver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/mark/cyberpunkplayer/app/BTManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/mark/cyberpunkplayer/app/BTManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/arm64-v8a/libnative-lib.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/arm64-v8a/libnative-lib.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/arm64-v8a/libnative-lib.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/arm64-v8a/libnative-lib.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/mark/cyberpunkplayer/app/BTManager$BTBroadcastRceciver.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/mark/cyberpunkplayer/app/BTManager$BTBroadcastRceciver.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/mark/cyberpunkplayer/app/BTManager.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/mark/cyberpunkplayer/app/BTManager.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/player/IPlayer.h" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/player/IPlayer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/mark/cyberpunkplayer/app/BTManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/mark/cyberpunkplayer/app/BTManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/mark/cyberpunkplayer/base/BaseRecyclerViewAdaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/mark/cyberpunkplayer/base/BaseRecyclerViewAdaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/mark/cyberpunkplayer/ui/fragment/bt/BTIndexFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_24" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CyberpunkPlayer" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CyberpunkPlayer" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Kotlin Class" />
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="D:\AndroidProject\dmark_google_sign.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1hJaCqlJAAauZURXDGV5altTtFo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BundleExportedModule" value="app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="85GBBMG228B5" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-14T17:15:21.631Z" />
+    <property name="ExportApk.ApkPath" value="D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowLogcat.ShowToolbar" value="false" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\cpp\player" />
+      <recent name="D:\AndroidProject\CyberpunkPlayer\app\src\main\cpp" />
+      <recent name="D:\AndroidProject\CyberpunkPlayer\app\src\main\cpp\include" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.mark.cyberpunkplayer.ui.activity.bt" />
+      <recent name="com.mark.cyberpunkplayer.player" />
+      <recent name="com.mark.cyberpunkplayer.ui.activity" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mark.cyberpunkplayer.ui.fragment.mvc" />
+      <recent name="com.mark.cyberpunkplayer.base" />
+      <recent name="com.mark.cyberpunkplayer.bean.local" />
+      <recent name="com.mark.cyberpunkplayer.ui.adapter" />
+      <recent name="com.mark.cyberpunkplayer.db" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\java" />
+      <recent name="D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\java\com\mark\cyberpunkplayer\util" />
+      <recent name="D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\java\org\cybergarage" />
+      <recent name="D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\cybergarage-upnp\src\main\java\org\cybergarage" />
+      <recent name="D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\cybergarage-upnp\src\main\java\org\cybergarage\http" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="All in app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.All in app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="037a44e5-81cc-4725-bbf7-462a04524ea6" name="Default Changelist" comment="" />
+      <created>1590428660392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590428660392</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_app - 2020.07.18 at 10h 57m 59s.xml">
+      <configuration name="All in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="All_in_app - 2020.07.18 at 10h 58m 10s.xml">
+      <configuration name="All in app" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1086" y="410" key="#com.intellij.ide.util.MemberChooser" timestamp="1603374498528">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1086" y="410" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1603374498528" />
+    <state x="4655" y="305" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1602583593080" />
+    <state x="1011" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599820238678">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1011" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1599820238678" />
+    <state x="1026" y="346" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1602671265222">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1026" y="346" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1602671265222" />
+    <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1603358899354">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1603358899354" />
+    <state width="2518" height="380" key="GridCell.Tab.0.bottom" timestamp="1603213197536">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2518" height="380" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1603213197536" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1602735775962" />
+    <state width="2518" height="380" key="GridCell.Tab.0.center" timestamp="1603213197536">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2518" height="380" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1603213197536" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1602735775962" />
+    <state width="2518" height="380" key="GridCell.Tab.0.left" timestamp="1603213197536">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2518" height="380" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1603213197536" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1602735775962" />
+    <state width="2518" height="380" key="GridCell.Tab.0.right" timestamp="1603213197536">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2518" height="380" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1603213197536" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1602735775962" />
+    <state x="823" y="222" width="674" height="478" key="com.intellij.ide.util.TipDialog" timestamp="1606147894249">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="823" y="222" width="674" height="478" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1606147894249" />
+    <state x="961" y="433" width="658" height="896" key="find.popup" timestamp="1603311331171">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="961" y="433" width="658" height="896" key="find.popup/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1603311331171" />
+    <state x="4561" y="322" width="647" height="666" key="find.popup/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1602671901982" />
+    <state width="300" height="122" key="javadoc.popup.new" timestamp="1602696119412">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="300" height="122" key="javadoc.popup.new/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1602696119412" />
+    <state width="300" height="91" key="javadoc.popup.new/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1602583486466" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1600886829438">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1600886829438" />
+  </component>
+</project>

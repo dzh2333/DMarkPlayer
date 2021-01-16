@@ -1,0 +1,2 @@
+include ':app', ':cybergarage-upnp'
+rootProject.name='CyberpunkPlayer'

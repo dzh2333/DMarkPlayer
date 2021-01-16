@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:ignore="MissingConstraints"
+    android:id="@+id/item_local_net_res_layout">
+
+            <com.mark.cyberpunkplayer.ui.widget.RoundImageView
+                android:id="@+id/item_local_res_icon"
+                android:layout_width="@dimen/dp_80"
+                android:layout_height="@dimen/dp_60"
+                android:padding="@dimen/dp_10"
+                android:src="@drawable/icon_folder"/>
+
+            <TextView
+                android:id="@+id/item_local_res_title"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:textSize="@dimen/sp_18"/>
+
+            <ImageView
+                android:id="@+id/item_local_res_delete"
+                android:layout_width="@dimen/dp_60"
+                android:layout_height="match_parent"
+                android:padding="@dimen/dp_16"/>
+
+
+</LinearLayout>

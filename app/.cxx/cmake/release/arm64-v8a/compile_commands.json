@@ -1,0 +1,151 @@
+[
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\nativelib.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\nativelib.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\nativelib.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\jnihelper\\StrHelper.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\jnihelper\\StrHelper.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\jnihelper\\StrHelper.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\jnihelper\\AndroidHelper.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\jnihelper\\AndroidHelper.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\jnihelper\\AndroidHelper.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\IDemux.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IDemux.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IDemux.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\FFDemux.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\FFDemux.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\FFDemux.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\XData.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XData.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XData.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\XLog.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XLog.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XLog.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\XThread.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XThread.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XThread.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\IObserver.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IObserver.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IObserver.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\FFdecode.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\FFdecode.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\FFdecode.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\IDecode.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IDecode.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IDecode.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\XParameter.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XParameter.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XParameter.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\IVideoView.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IVideoView.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IVideoView.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\GLVideoView.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\GLVideoView.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\GLVideoView.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\XTexture.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XTexture.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XTexture.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\XEGL.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XEGL.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XEGL.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\XShader.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XShader.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\XShader.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\FFResample.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\FFResample.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\FFResample.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\IResample.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IResample.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IResample.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\SLAudioPlay.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\SLAudioPlay.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\SLAudioPlay.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\IAudioPlay.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IAudioPlay.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IAudioPlay.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\IPlayer.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IPlayer.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IPlayer.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\IPlayerBuilder.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IPlayerBuilder.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IPlayerBuilder.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\FFPlayerBuilder.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\FFPlayerBuilder.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\FFPlayerBuilder.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/l/AppData/Local/Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include/libyuv -ID:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\player\\IPlayerPorxy.cpp.o -c D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IPlayerPorxy.cpp",
+  "file": "D:\\AndroidProject\\AMainPlayerProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\player\\IPlayerPorxy.cpp"
+}
+]

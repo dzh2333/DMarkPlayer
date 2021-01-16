@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_140"
+    android:id="@+id/item_rv_select_pic_layout"
+    android:background="@color/white">
+
+    <ImageView
+        android:id="@+id/item_rv_select_pic_imageview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:transitionName="item_pic"/>
+
+    <ImageView
+        android:id="@+id/item_rv_select_pic_select"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/item_rv_select_pic_checkbox"
+        android:layout_width="@dimen/dp_20"
+        android:layout_height="@dimen/dp_20"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/check_box"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="@dimen/dp_10"
+        android:layout_marginTop="@dimen/dp_10"
+        android:scaleType="fitXY"
+        android:visibility="invisible"/>
+
+
+</RelativeLayout>

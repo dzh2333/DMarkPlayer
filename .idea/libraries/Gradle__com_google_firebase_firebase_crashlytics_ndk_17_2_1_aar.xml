@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-crashlytics-ndk:17.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fba0faf839d3fdd9717d97635a668cb7/firebase-crashlytics-ndk-17.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fba0faf839d3fdd9717d97635a668cb7/firebase-crashlytics-ndk-17.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fba0faf839d3fdd9717d97635a668cb7/firebase-crashlytics-ndk-17.2.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-crashlytics-ndk/17.2.1/a6a4fa0e332d6c71e5213a60ab9c253f33664685/firebase-crashlytics-ndk-17.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

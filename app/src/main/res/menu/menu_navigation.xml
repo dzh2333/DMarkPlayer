@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="本地">
+        <menu>
+            <item
+                android:id="@+id/local_video"
+                android:title="本地视频"
+                android:icon="@drawable/menu_video"/>
+            <item
+                android:id="@+id/local_pic"
+                android:title="本地图片"
+                android:icon="@drawable/menu_pic"/>
+            <item
+                android:id="@+id/local_audio"
+                android:title="本地音频"
+                android:icon="@drawable/menu_audio"/>
+        </menu>
+    </item>
+
+    <item android:title="网络">
+        <menu>
+            <item
+                android:id="@+id/net_local_res"
+                android:title="本地网络资源(BETA)"
+                android:icon="@drawable/menu_video"/>
+        </menu>
+    </item>
+
+<!--    <item android:title="加密">-->
+<!--        <menu>-->
+<!--            <item-->
+<!--                android:id="@+id/safe_box"-->
+<!--                android:title="@string/menu_safebox"-->
+<!--                android:icon="@drawable/safebox"/>-->
+<!--        </menu>-->
+<!--    </item>-->
+
+    <item android:title="数据传输">
+        <menu>
+            <item
+                android:id="@+id/bt_transmission"
+                android:title="蓝牙互传"
+                android:icon="@drawable/ic_bluetooth"
+                />
+            <item
+                android:id="@+id/wifi_transmission"
+                android:title="WIFI传输"
+                android:icon="@drawable/icon_wifi"/>
+        </menu>
+    </item>
+
+    <item android:title="关于">
+        <menu>
+            <item
+                android:id="@+id/about_me"
+                android:title="@string/menu_about"
+                android:icon="@drawable/aboutus"/>
+        </menu>
+    </item>
+</menu>

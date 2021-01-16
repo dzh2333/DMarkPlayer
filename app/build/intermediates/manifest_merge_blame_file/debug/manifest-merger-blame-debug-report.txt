@@ -1,0 +1,393 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mark.cyberpunkplayer"
+4    android:versionCode="2"
+5    android:versionName="1.01" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:6:5-66
+11-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:7:5-79
+12-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:7:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:8:5-80
+13-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+14-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:9:5-75
+14-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:9:22-73
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:10:5-75
+15-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:10:22-73
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:11:5-67
+16-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:11:22-65
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:13:5-80
+17-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:13:22-78
+18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+18-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:14:5-78
+18-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:14:22-76
+19    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+19-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:16:5-71
+19-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:16:22-69
+20    <uses-permission android:name="android.permission.SET_WALLPAPER_HINTS" />
+20-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:17:5-77
+20-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:17:22-75
+21    <uses-permission android:name="android.permission.BLUETOOTH" />
+21-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:19:5-68
+21-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:19:22-65
+22    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+22-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:20:5-74
+22-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:20:22-71
+23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+23-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:22:5-79
+23-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:22:22-76
+24
+25    <application
+25-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:24:5-120:19
+26        android:name="com.mark.cyberpunkplayer.app.MainApplication"
+26-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:25:9-44
+27        android:allowBackup="true"
+27-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:26:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.2.0] C:\Users\l\.gradle\caches\transforms-2\files-2.1\7e229af67224b1bb6c8940db779a822a\core-1.2.0\AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:icon="@drawable/app_icon"
+30-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:27:9-42
+31        android:label="@string/app_name"
+31-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:28:9-41
+32        android:requestLegacyExternalStorage="true"
+32-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:29:9-52
+33        android:roundIcon="@drawable/app_icon"
+33-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:30:9-47
+34        android:supportsRtl="true"
+34-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:31:9-35
+35        android:testOnly="true"
+36        android:theme="@style/AppTheme" >
+36-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:32:9-40
+37        <activity
+37-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:34:9-42:20
+38            android:name="com.mark.cyberpunkplayer.ui.activity.SplashActivity"
+38-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:34:19-61
+39            android:screenOrientation="portrait"
+39-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:35:13-49
+40            android:theme="@style/splashTheme" >
+40-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:36:13-47
+41            <intent-filter>
+41-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:37:13-41:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:38:17-69
+42-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:38:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:40:17-77
+44-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:40:27-74
+45            </intent-filter>
+46        </activity>
+47        <activity
+47-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:45:9-51:20
+48            android:name="com.mark.cyberpunkplayer.ui.activity.MainActivity"
+48-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:45:19-59
+49            android:configChanges="orientation|screenSize"
+49-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:47:13-59
+50            android:launchMode="singleTask" >
+50-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:46:13-44
+51            <intent-filter>
+51-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:48:13-50:29
+52                <action android:name="android.intent.action.DELETE" />
+52-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:49:17-70
+52-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:49:25-68
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:53:9-64:20
+56            android:name="com.mark.cyberpunkplayer.player.PlayerActivity"
+56-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:53:19-56
+57            android:enabled="true"
+57-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:57:13-35
+58            android:exported="true"
+58-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:56:13-36
+59            android:launchMode="singleTop"
+59-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:55:13-43
+60            android:screenOrientation="landscape"
+60-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:54:13-50
+61            android:theme="@style/PlayerFullScreenTheme" >
+61-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:58:13-57
+62            <intent-filter>
+62-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:59:13-63:29
+63                <action android:name="com.mark.player.action" />
+63-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:60:17-64
+63-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:60:25-62
+64
+65                <category android:name="android.intent.category.DEFAULT" />
+65-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:61:17-75
+65-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:61:27-73
+66                <category android:name="com.mark.player.category" />
+66-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:62:17-68
+66-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:62:27-66
+67            </intent-filter>
+68        </activity>
+69        <activity
+69-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:66:9-69:20
+70            android:name="com.mark.cyberpunkplayer.ui.activity.AboutMeActivity"
+70-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:66:19-62
+71            android:screenOrientation="portrait" >
+71-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:67:13-49
+72        </activity>
+73        <activity
+73-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:71:9-77:20
+74            android:name="com.mark.cyberpunkplayer.ui.activity.NewSessionActivity"
+74-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:71:19-65
+75            android:launchMode="singleTop"
+75-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:72:13-43
+76            android:screenOrientation="portrait" >
+76-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:73:13-49
+77            <intent-filter>
+77-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:74:13-76:29
+78                <category android:name="android.intent.category.DEFAULT" />
+78-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:61:17-75
+78-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:61:27-73
+79            </intent-filter>
+80        </activity>
+81        <activity
+81-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:79:9-83:20
+82            android:name="com.mark.cyberpunkplayer.ui.activity.SafeBoxActivity"
+82-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:79:19-62
+83            android:configChanges="screenSize|orientation"
+83-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:82:13-59
+84            android:exported="false"
+84-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:81:13-37
+85            android:launchMode="singleTask" >
+85-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:80:13-44
+86        </activity>
+87        <activity
+87-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:85:9-88:20
+88            android:name="com.mark.cyberpunkplayer.ui.activity.bt.BtActivity"
+88-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:85:19-60
+89            android:configChanges="screenSize|orientation" >
+89-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:86:13-59
+90        </activity>
+91        <activity
+91-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:90:9-93:20
+92            android:name="com.mark.cyberpunkplayer.ui.activity.bt.BTIndexActivity"
+92-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:90:19-65
+93            android:configChanges="screenSize|orientation" >
+93-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:91:13-59
+94        </activity>
+95        <activity android:name="com.mark.cyberpunkplayer.ui.activity.SelectFileActivity" >
+95-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:95:9-97:20
+95-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:95:19-65
+96        </activity>
+97        <activity android:name="com.mark.cyberpunkplayer.ui.activity.RTSPActivity" >
+97-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:99:9-101:20
+97-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:99:19-59
+98        </activity>
+99
+100        <service
+100-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:103:9-107:19
+101            android:name="com.mark.cyberpunkplayer.service.smb.SmbService"
+101-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:103:18-56
+102            android:enabled="true"
+102-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:105:13-35
+103            android:exported="true" >
+103-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:104:13-36
+104        </service>
+105        <service
+105-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:109:9-113:19
+106            android:name="com.mark.cyberpunkplayer.service.wifi.WifiService"
+106-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:109:18-58
+107            android:enabled="true"
+107-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:111:13-35
+108            android:exported="true" >
+108-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:110:13-36
+109        </service>
+110        <service
+110-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:115:9-119:19
+111            android:name="net.majorkernelpanic.streaming.rtsp.RtspServer"
+111-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:115:18-79
+112            android:enabled="true"
+112-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:117:13-35
+113            android:exported="true" >
+113-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:116:13-36
+114        </service>
+115
+116        <activity
+116-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:25:9-30:75
+117            android:name="com.yanzhenjie.permission.PermissionActivity"
+117-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:26:13-72
+118            android:configChanges="keyboardHidden|orientation|screenSize"
+118-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:27:13-74
+119            android:launchMode="standard"
+119-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:28:13-42
+120            android:theme="@style/Permission.Theme.Activity"
+120-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:29:13-61
+121            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" />
+121-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:30:13-72
+122
+123        <provider
+123-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:32:9-40:20
+124            android:name="com.yanzhenjie.permission.FileProvider"
+124-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:33:13-66
+125            android:authorities="com.mark.cyberpunkplayer.file.path.share"
+125-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:34:13-67
+126            android:exported="false"
+126-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:35:13-37
+127            android:grantUriPermissions="true" >
+127-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:36:13-47
+128            <meta-data
+128-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:37:13-39:65
+129                android:name="android.support.FILE_PROVIDER_PATHS"
+129-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:38:17-67
+130                android:resource="@xml/permission_file_paths" />
+130-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\l\.gradle\caches\transforms-2\files-2.1\a2a7b93acf0fe676f436bb4f9f9022b6\jetified-permission-2.0.0-rc11\AndroidManifest.xml:39:17-62
+131        </provider>
+132
+133        <service
+133-->[com.google.firebase:firebase-crashlytics-ndk:17.2.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\fba0faf839d3fdd9717d97635a668cb7\firebase-crashlytics-ndk-17.2.1\AndroidManifest.xml:32:9-38:19
+134            android:name="com.google.firebase.components.ComponentDiscoveryService"
+134-->[com.google.firebase:firebase-crashlytics-ndk:17.2.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\fba0faf839d3fdd9717d97635a668cb7\firebase-crashlytics-ndk-17.2.1\AndroidManifest.xml:33:13-84
+135            android:directBootAware="true"
+135-->[com.google.firebase:firebase-common:19.3.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\8eac8c12d99971eb5bb7aeaa30aa003e\jetified-firebase-common-19.3.1\AndroidManifest.xml:35:13-43
+136            android:exported="false" >
+136-->[com.google.firebase:firebase-crashlytics-ndk:17.2.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\fba0faf839d3fdd9717d97635a668cb7\firebase-crashlytics-ndk-17.2.1\AndroidManifest.xml:34:13-37
+137            <meta-data
+137-->[com.google.firebase:firebase-crashlytics-ndk:17.2.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\fba0faf839d3fdd9717d97635a668cb7\firebase-crashlytics-ndk-17.2.1\AndroidManifest.xml:35:13-37:85
+138                android:name="com.google.firebase.components:com.google.firebase.crashlytics.ndk.CrashlyticsNdkRegistrar"
+138-->[com.google.firebase:firebase-crashlytics-ndk:17.2.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\fba0faf839d3fdd9717d97635a668cb7\firebase-crashlytics-ndk-17.2.1\AndroidManifest.xml:36:17-122
+139                android:value="com.google.firebase.components.ComponentRegistrar" />
+139-->[com.google.firebase:firebase-crashlytics-ndk:17.2.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\fba0faf839d3fdd9717d97635a668cb7\firebase-crashlytics-ndk-17.2.1\AndroidManifest.xml:37:17-82
+140            <meta-data
+140-->[com.google.firebase:firebase-crashlytics:17.2.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\dff50c0daa7d52b7bb25f8afc9f38844\firebase-crashlytics-17.2.1\AndroidManifest.xml:16:13-18:85
+141                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+141-->[com.google.firebase:firebase-crashlytics:17.2.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\dff50c0daa7d52b7bb25f8afc9f38844\firebase-crashlytics-17.2.1\AndroidManifest.xml:17:17-115
+142                android:value="com.google.firebase.components.ComponentRegistrar" />
+142-->[com.google.firebase:firebase-crashlytics:17.2.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\dff50c0daa7d52b7bb25f8afc9f38844\firebase-crashlytics-17.2.1\AndroidManifest.xml:18:17-82
+143            <meta-data
+143-->[com.google.firebase:firebase-installations:16.3.3] C:\Users\l\.gradle\caches\transforms-2\files-2.1\7c755870f7987fe0dfdb5997ce566907\firebase-installations-16.3.3\AndroidManifest.xml:17:13-19:85
+144                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+144-->[com.google.firebase:firebase-installations:16.3.3] C:\Users\l\.gradle\caches\transforms-2\files-2.1\7c755870f7987fe0dfdb5997ce566907\firebase-installations-16.3.3\AndroidManifest.xml:18:17-127
+145                android:value="com.google.firebase.components.ComponentRegistrar" />
+145-->[com.google.firebase:firebase-installations:16.3.3] C:\Users\l\.gradle\caches\transforms-2\files-2.1\7c755870f7987fe0dfdb5997ce566907\firebase-installations-16.3.3\AndroidManifest.xml:19:17-82
+146        </service>
+147        <service
+147-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:27:9-30:45
+148            android:name="com.squareup.leakcanary.internal.HeapAnalyzerService"
+148-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:28:13-80
+149            android:enabled="false"
+149-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:29:13-36
+150            android:process=":leakcanary" />
+150-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:30:13-42
+151        <service
+151-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:31:9-34:45
+152            android:name="com.squareup.leakcanary.DisplayLeakService"
+152-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:32:13-70
+153            android:enabled="false"
+153-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:33:13-36
+154            android:process=":leakcanary" />
+154-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:34:13-42
+155
+156        <activity
+156-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:36:9-49:20
+157            android:name="com.squareup.leakcanary.internal.DisplayLeakActivity"
+157-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:37:13-80
+158            android:enabled="false"
+158-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:38:13-36
+159            android:icon="@drawable/leak_canary_icon"
+159-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:39:13-54
+160            android:label="@string/leak_canary_display_activity_label"
+160-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:40:13-71
+161            android:process=":leakcanary"
+161-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:41:13-42
+162            android:taskAffinity="com.squareup.leakcanary.com.mark.cyberpunkplayer"
+162-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:42:13-76
+163            android:theme="@style/leak_canary_LeakCanary.Base" >
+163-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:43:13-63
+164            <intent-filter>
+164-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:37:13-41:29
+165                <action android:name="android.intent.action.MAIN" />
+165-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:38:17-69
+165-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:38:25-66
+166
+167                <category android:name="android.intent.category.LAUNCHER" />
+167-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:40:17-77
+167-->D:\AndroidProject\AMainPlayerProject\CyberpunkPlayer\app\src\main\AndroidManifest.xml:40:27-74
+168            </intent-filter>
+169        </activity>
+170        <activity
+170-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:50:9-58:68
+171            android:name="com.squareup.leakcanary.internal.RequestStoragePermissionActivity"
+171-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:51:13-93
+172            android:enabled="false"
+172-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:52:13-36
+173            android:excludeFromRecents="true"
+173-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:53:13-46
+174            android:icon="@drawable/leak_canary_icon"
+174-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:54:13-54
+175            android:label="@string/leak_canary_storage_permission_activity_label"
+175-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:55:13-82
+176            android:process=":leakcanary"
+176-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:56:13-42
+177            android:taskAffinity="com.squareup.leakcanary.com.mark.cyberpunkplayer"
+177-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:57:13-76
+178            android:theme="@style/leak_canary_Theme.Transparent" />
+178-->[com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\139f6b4ec7001ef809b181731f8a4663\jetified-leakcanary-android-1.5.4\AndroidManifest.xml:58:13-65
+179
+180        <provider
+180-->[com.google.firebase:firebase-common:19.3.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\8eac8c12d99971eb5bb7aeaa30aa003e\jetified-firebase-common-19.3.1\AndroidManifest.xml:26:9-31:39
+181            android:name="com.google.firebase.provider.FirebaseInitProvider"
+181-->[com.google.firebase:firebase-common:19.3.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\8eac8c12d99971eb5bb7aeaa30aa003e\jetified-firebase-common-19.3.1\AndroidManifest.xml:27:13-77
+182            android:authorities="com.mark.cyberpunkplayer.firebaseinitprovider"
+182-->[com.google.firebase:firebase-common:19.3.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\8eac8c12d99971eb5bb7aeaa30aa003e\jetified-firebase-common-19.3.1\AndroidManifest.xml:28:13-72
+183            android:directBootAware="true"
+183-->[com.google.firebase:firebase-common:19.3.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\8eac8c12d99971eb5bb7aeaa30aa003e\jetified-firebase-common-19.3.1\AndroidManifest.xml:29:13-43
+184            android:exported="false"
+184-->[com.google.firebase:firebase-common:19.3.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\8eac8c12d99971eb5bb7aeaa30aa003e\jetified-firebase-common-19.3.1\AndroidManifest.xml:30:13-37
+185            android:initOrder="100" />
+185-->[com.google.firebase:firebase-common:19.3.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\8eac8c12d99971eb5bb7aeaa30aa003e\jetified-firebase-common-19.3.1\AndroidManifest.xml:31:13-36
+186
+187        <meta-data
+187-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\l\.gradle\caches\transforms-2\files-2.1\9154376b6fe2e892af064edd89f0d274\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+188            android:name="com.google.android.gms.version"
+188-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\l\.gradle\caches\transforms-2\files-2.1\9154376b6fe2e892af064edd89f0d274\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+189            android:value="@integer/google_play_services_version" />
+189-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\l\.gradle\caches\transforms-2\files-2.1\9154376b6fe2e892af064edd89f0d274\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+190
+191        <service
+191-->[com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\d30488ca99fb02b868b045dc6fc20bbe\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:29:9-35:19
+192            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+192-->[com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\d30488ca99fb02b868b045dc6fc20bbe\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:30:13-103
+193            android:exported="false" >
+193-->[com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\d30488ca99fb02b868b045dc6fc20bbe\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:31:13-37
+194            <meta-data
+194-->[com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\d30488ca99fb02b868b045dc6fc20bbe\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:32:13-34:39
+195                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+195-->[com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\d30488ca99fb02b868b045dc6fc20bbe\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:33:17-94
+196                android:value="cct" />
+196-->[com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\l\.gradle\caches\transforms-2\files-2.1\d30488ca99fb02b868b045dc6fc20bbe\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:34:17-36
+197        </service>
+198        <service
+198-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\eeb08fb74615bf969cdb225ddcbadfc3\jetified-transport-runtime-2.2.4\AndroidManifest.xml:26:9-30:19
+199            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+199-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\eeb08fb74615bf969cdb225ddcbadfc3\jetified-transport-runtime-2.2.4\AndroidManifest.xml:27:13-117
+200            android:exported="false"
+200-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\eeb08fb74615bf969cdb225ddcbadfc3\jetified-transport-runtime-2.2.4\AndroidManifest.xml:28:13-37
+201            android:permission="android.permission.BIND_JOB_SERVICE" >
+201-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\eeb08fb74615bf969cdb225ddcbadfc3\jetified-transport-runtime-2.2.4\AndroidManifest.xml:29:13-69
+202        </service>
+203
+204        <receiver
+204-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\eeb08fb74615bf969cdb225ddcbadfc3\jetified-transport-runtime-2.2.4\AndroidManifest.xml:32:9-34:40
+205            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+205-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\eeb08fb74615bf969cdb225ddcbadfc3\jetified-transport-runtime-2.2.4\AndroidManifest.xml:33:13-132
+206            android:exported="false" />
+206-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\l\.gradle\caches\transforms-2\files-2.1\eeb08fb74615bf969cdb225ddcbadfc3\jetified-transport-runtime-2.2.4\AndroidManifest.xml:34:13-37
+207    </application>
+208
+209</manifest>

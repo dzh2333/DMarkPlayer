@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_80"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:ignore="MissingConstraints"
+    android:id="@+id/item_audio_layout">
+
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/item_audio_image"
+                android:layout_width="@dimen/dp_60"
+                android:layout_height="match_parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                android:src="@drawable/ic_audio"
+                android:scaleType="fitXY"
+                android:layout_margin="@dimen/dp_10"/>
+
+            <TextView
+                android:id="@+id/item_audio_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/sp_16"
+                android:maxLines="2"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toTopOf="@id/item_audio_time"
+                android:layout_marginLeft="@dimen/dp_100"
+                android:layout_marginBottom="@dimen/dp_6"
+                android:layout_marginRight="@dimen/dp_70"
+                />
+
+            <TextView
+                android:id="@+id/item_audio_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintLeft_toRightOf="@id/item_audio_image"
+                android:layout_marginBottom="@dimen/dp_10"
+                android:textSize="@dimen/sp_12"
+                android:layout_marginLeft="@dimen/dp_10"/>
+
+            <ImageView
+                android:id="@+id/item_audio_menu"
+                android:layout_width="@dimen/dp_60"
+                android:layout_height="match_parent"
+                app:layout_constraintRight_toRightOf="parent"
+                android:padding="@dimen/dp_20"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

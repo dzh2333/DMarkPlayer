@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake",
+    "D:\\AndroidProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\l\\AppData\\Local\\Android\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\debug\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\l\\AppData\\Local\\Android\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\l\\AppData\\Local\\Android\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\debug\\x86_64\" native-lib",
+      "abi": "x86_64",
+      "output": "D:\\AndroidProject\\CyberpunkPlayer\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libnative-lib.so"
+    }
+  }
+}

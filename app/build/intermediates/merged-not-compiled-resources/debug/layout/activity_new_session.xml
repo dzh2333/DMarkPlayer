@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/new_session_toolbar"
+        layout="@layout/include_toolbar"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_40"
+                android:text="目前应用仅支持SMB协议"
+                android:gravity="center"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_50"
+                android:text="目标IP地址："
+                android:gravity="left|center"
+                android:paddingLeft="@dimen/dp_10"/>
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/new_session_ip_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:hint="IP"
+                android:text="192.168.1.7"
+                android:gravity="center"
+                android:textColor="@color/custom_progress_blue_progress"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_50"
+                android:text="用户名："
+                android:gravity="left|center"
+                android:paddingLeft="@dimen/dp_10"/>
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/new_session_user_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:hint="用户名"
+                android:text="l"
+                android:gravity="center"
+                android:textColor="@color/custom_progress_blue_progress"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_50"
+                android:text="密码："
+                android:gravity="left|center"
+                android:paddingLeft="@dimen/dp_10"/>
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/new_session_user_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:hint="密码"
+                android:text="deng123456"
+                android:gravity="center"
+                android:textColor="@color/custom_progress_blue_progress"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_50"
+                android:text="端口："
+                android:gravity="left|center"
+                android:paddingLeft="@dimen/dp_10"/>
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/new_session_port"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:hint="端口(选填)"
+                android:gravity="center"
+                android:textColor="@color/custom_progress_blue_progress"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_50"
+                android:text="目标文件夹："
+                android:gravity="left|center"
+                android:paddingLeft="@dimen/dp_10"/>
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/new_session_folder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:hint="目标文件夹(选填)"
+                android:gravity="center"
+                android:textColor="@color/custom_progress_blue_progress"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_50"
+                android:text="备注名："
+                android:gravity="left|center"
+                android:paddingLeft="@dimen/dp_10"/>
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/new_session_markname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:hint="备注名"
+                android:gravity="center"
+                android:textColor="@color/custom_progress_blue_progress"/>
+
+
+            <Button
+                android:id="@+id/new_session_commit"
+                android:text="提交"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

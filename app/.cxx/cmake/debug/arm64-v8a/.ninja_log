@@ -1,0 +1,27 @@
+# ninja log v5
+0	947	624916157	CMakeFiles/native-lib.dir/jnihelper/StrHelper.cpp.o	55d3132cc9c7eaed
+37	1022	624916157	CMakeFiles/native-lib.dir/nativelib.cpp.o	7c549a66d9d10d8
+72	1100	624916157	CMakeFiles/native-lib.dir/player/IDemux.cpp.o	50bc4bb0c56f575b
+128	1164	624916157	CMakeFiles/native-lib.dir/player/FFDemux.cpp.o	561e6da27a1c11ec
+191	1238	624916157	CMakeFiles/native-lib.dir/jnihelper/AndroidHelper.cpp.o	d54490d8106876a2
+284	1322	624916157	CMakeFiles/native-lib.dir/player/XData.cpp.o	6b723637eeac9094
+332	1394	624916158	CMakeFiles/native-lib.dir/player/IObserver.cpp.o	93954ef8b8a0fcca
+397	1475	624916158	CMakeFiles/native-lib.dir/player/XThread.cpp.o	60ceff68234dba1a
+546	1553	624916157	CMakeFiles/native-lib.dir/player/XLog.cpp.o	75deedadecd4be28
+616	1644	624916158	CMakeFiles/native-lib.dir/player/IVideoView.cpp.o	473836974d79e4dc
+896	1745	624916157	CMakeFiles/native-lib.dir/player/XParameter.cpp.o	66b7a12174aa2880
+948	1836	624916158	CMakeFiles/native-lib.dir/player/XTexture.cpp.o	d246a8bca4bbb0c1
+811	1903	624916158	CMakeFiles/native-lib.dir/player/IDecode.cpp.o	b49d52555f8e7c41
+696	1924	624916158	CMakeFiles/native-lib.dir/player/GLVideoView.cpp.o	f5a30a13707a3c60
+1101	1997	624916158	CMakeFiles/native-lib.dir/player/XEGL.cpp.o	28326800e1fcf7e7
+1023	2000	624916158	CMakeFiles/native-lib.dir/player/XShader.cpp.o	47b5b4835bd2085
+1165	2157	624916158	CMakeFiles/native-lib.dir/player/FFResample.cpp.o	3d60c89f092d5c8f
+1238	2266	624916159	CMakeFiles/native-lib.dir/player/SLAudioPlay.cpp.o	662b272cb2595acf
+1394	2307	624916159	CMakeFiles/native-lib.dir/player/IResample.cpp.o	3eaacd5dc3675e2d
+1322	2321	624916159	CMakeFiles/native-lib.dir/player/IAudioPlay.cpp.o	45bc067d67fb4f82
+468	2338	624916159	CMakeFiles/native-lib.dir/player/FFdecode.cpp.o	b5c7ce853d24142d
+1475	2415	624916159	CMakeFiles/native-lib.dir/player/IPlayer.cpp.o	741911ca234bdd6d
+1554	2420	624916159	CMakeFiles/native-lib.dir/player/IPlayerBuilder.cpp.o	4730f769da3a6e0b
+1645	2467	624916159	CMakeFiles/native-lib.dir/player/IPlayerPorxy.cpp.o	3fc18aa0e7c3a6b7
+1745	2489	624916159	CMakeFiles/native-lib.dir/player/FFPlayerBuilder.cpp.o	bfbd89d022f1ab8b
+2489	2806	624916159	D:/AndroidProject/AMainPlayerProject/CyberpunkPlayer/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	41e11d2954f7d174

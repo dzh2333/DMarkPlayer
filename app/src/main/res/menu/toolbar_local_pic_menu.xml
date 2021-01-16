@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <item android:id="@+id/pic_menu"-->
+<!--        android:title="刷新"-->
+<!--        android:icon="@drawable/reflash"-->
+<!--        app:showAsAction="ifRoom"/>-->
+
+
+<!--    <item android:id="@+id/audio_menu"-->
+<!--        android:title="刷新"-->
+<!--        android:icon="@drawable/reflash"-->
+<!--        app:showAsAction="ifRoom"/>-->
+
+
+<!--    <item android:id="@+id/video_menu"-->
+<!--        android:title="刷新"-->
+<!--        android:icon="@drawable/reflash"-->
+<!--        app:showAsAction="ifRoom"/>-->
+
+    <item android:id="@+id/pic_sort"
+        android:title="排序方式"
+        android:icon="@drawable/sort"
+        app:showAsAction="ifRoom">
+        <menu >
+            <item android:id="@+id/pic_sort_size"
+                android:title="大小排序"/>
+            <item android:id="@+id/pic_sort_time"
+                android:title="时间排序"/>
+        </menu>
+    </item>
+
+    <item android:id="@+id/video_sort"
+        android:title="排序方式"
+        android:icon="@drawable/sort"
+        app:showAsAction="ifRoom">
+        <menu >
+            <item android:id="@+id/video_sort_size"
+                android:title="大小排序"/>
+            <item android:id="@+id/video_sort_time"
+                android:title="时间排序"/>
+        </menu>
+    </item>
+
+<!--    <item android:id="@+id/setting_menu"-->
+<!--        android:title="设置"-->
+<!--        app:showAsAction="ifRoom"-->
+<!--        android:icon="@drawable/toolbar_menu">-->
+<!--        <menu>-->
+<!--            <item android:title="设置"-->
+<!--                android:id="@+id/setting_menu_index"/>-->
+<!--            <item android:title="主题"-->
+<!--                android:id="@+id/setting_menu_style"/>-->
+<!--        </menu>-->
+<!--    </item>-->
+</menu>

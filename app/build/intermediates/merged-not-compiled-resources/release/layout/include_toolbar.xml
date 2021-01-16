@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@color/darkturquoise"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/dmark_toolbar_back"
+        android:layout_width="@dimen/dp_60"
+        android:layout_height="match_parent"
+        android:src="@drawable/back"
+        android:paddingTop="@dimen/dp_10"
+        android:paddingBottom="@dimen/dp_10"/>
+
+    <TextView
+        android:id="@+id/dmark_toolbar_title"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textSize="@dimen/sp_18"
+        android:textColor="@color/white"
+        android:layout_marginLeft="@dimen/dp_10"
+        android:gravity="center"/>
+
+</LinearLayout>

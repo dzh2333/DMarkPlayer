@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="@dimen/dp_80"
+        android:layout_height="@dimen/dp_140"
+        android:src="@drawable/ic_bluetooth"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_no_connect"
+        android:textColor="@color/blue"
+        android:textSize="@dimen/sp_16"/>
+
+    <Button
+        android:id="@+id/item_bt_nothing_reconnect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/retest"
+        android:background="@drawable/lightblue_bt"
+        android:layout_marginTop="@dimen/dp_10"/>
+</LinearLayout>

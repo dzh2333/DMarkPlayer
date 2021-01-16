@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\AndroidProject\\CyberpunkPlayer",
+      "sdkFolder": "C:\\Users\\l\\AppData\\Local\\Android",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\AndroidProject\\CyberpunkPlayer\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\AndroidProject\\CyberpunkPlayer\\app",
+      "makeFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\AndroidProject\\CyberpunkPlayer\\.cxx",
+      "cxxFolder": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\l\\AppData\\Local\\Android\\ndk\\20.0.5594570",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "soFolder": "D:\\AndroidProject\\CyberpunkPlayer\\app\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "D:\\AndroidProject\\CyberpunkPlayer\\app\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 19,
+  "cxxBuildFolder": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\release\\x86_64",
+  "jsonFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\release\\x86_64\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cxx\\release\\x86_64",
+  "objFolder": "D:\\AndroidProject\\CyberpunkPlayer\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64",
+  "buildCommandFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\release\\x86_64\\build_command.txt",
+  "buildOutputFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\release\\x86_64\\build_output.txt",
+  "modelOutputFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\release\\x86_64\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cxx\\release\\x86_64\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cxx\\release\\x86_64\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cxx\\release\\x86_64\\build_generation_state.json",
+    "cacheKeyFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cxx\\release\\x86_64\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cxx\\release\\x86_64\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cxx\\release\\x86_64\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cxx\\release\\x86_64\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\release\\x86_64\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\AndroidProject\\CyberpunkPlayer\\app\\.cxx\\cmake\\release\\x86_64\\compile_commands.json"
+}

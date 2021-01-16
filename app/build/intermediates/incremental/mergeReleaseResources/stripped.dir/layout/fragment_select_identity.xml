@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_margin="@dimen/dp_10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/send_file_list"
+        android:textSize="@dimen/sp_18"
+        android:textColor="@color/gray"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/fragment_select_identity_rv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <com.mark.cyberpunkplayer.ui.widget.RippleView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        rv_centered="true">
+        <Button
+            android:id="@+id/fragment_select_identity_add_file"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/add_selected_file"
+            android:background="@drawable/blue_cir_bg"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_16"
+            android:layout_margin="@dimen/dp_10"/>
+    </com.mark.cyberpunkplayer.ui.widget.RippleView>
+
+    <TextView
+        android:id="@+id/fragment_select_device_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/now_no_device"
+        android:gravity="center"
+        android:textSize="@dimen/sp_18"
+        android:layout_margin="@dimen/dp_10"/>
+
+
+    <com.mark.cyberpunkplayer.ui.widget.RippleView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        rv_centered="true">
+        <Button
+            android:id="@+id/fragment_select_device"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/select_device"
+            android:background="@drawable/blue_cir_bg"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_16"
+            android:layout_margin="@dimen/dp_10"/>
+    </com.mark.cyberpunkplayer.ui.widget.RippleView>
+
+
+    <com.mark.cyberpunkplayer.ui.widget.RippleView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        rv_centered="true">
+        <Button
+            android:id="@+id/fragment_select_identity_commit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/send"
+            android:background="@drawable/blue_cir_bg"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_16"
+            android:layout_margin="@dimen/dp_10"/>
+    </com.mark.cyberpunkplayer.ui.widget.RippleView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/fragment_send_file_log"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dp_10"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

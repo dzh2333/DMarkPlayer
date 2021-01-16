@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_100"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_30"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/audio_player_left_time"
+            android:layout_width="@dimen/dp_40"
+            android:layout_height="match_parent"
+            android:text="00:00"
+            android:maxLines="1"
+            android:gravity="center"
+            android:layout_marginLeft="@dimen/dp_8"/>
+
+        <SeekBar
+            android:id="@+id/audio_player_seek"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:id="@+id/audio_player_right_time"
+            android:layout_width="@dimen/dp_40"
+            android:layout_height="match_parent"
+            android:text="00:00"
+            android:maxLines="1"
+            android:gravity="center"
+            android:layout_marginRight="@dimen/dp_8"/>
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/audio_player_left"
+            android:layout_width="@dimen/dp_80"
+            android:layout_height="@dimen/dp_50"
+            android:src="@drawable/audio_left"
+            android:layout_marginRight="@dimen/dp_10"/>
+
+        <ImageView
+            android:id="@+id/audio_player_play_or_pause"
+            android:src="@drawable/audio_player"
+            android:layout_width="@dimen/dp_80"
+            android:layout_height="@dimen/dp_60"
+            android:paddingLeft="@dimen/dp_10"
+            android:paddingRight="@dimen/dp_10"
+            />
+
+        <ImageView
+            android:id="@+id/audio_player_next"
+            android:layout_width="@dimen/dp_80"
+            android:layout_height="@dimen/dp_50"
+            android:src="@drawable/audio_right"
+            android:layout_marginLeft="@dimen/dp_10"/>
+    </LinearLayout>
+</LinearLayout>
